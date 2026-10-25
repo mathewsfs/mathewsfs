@@ -19,5 +19,3 @@ Desenvolvedor de **automações e integrações**.Conecto sistemas: CRM Bitrix24
 | Projeto | O que é |
 |---|---|
 | [**MatDeck**](https://github.com/mathewsfs/matdeck) | Transforma um tablet ou celular Android antigo, ou um iPad 2, num Stream Deck para o PC Linux: TeamSpeak, Discord, Meet, OBS, Spotify e volume. Node.js, Flatpak, emparelhamento por PIN. |
-| [**Dona Nice**](https://github.com/mathewsfs/dona-nice) | PWA de gestão para uma doceria caseira: pedidos, cobranças e avisos automáticos por WhatsApp. React + TypeScript + Express. |
-| [**Painel de Moradores**](https://github.com/mathewsfs/painel-moradores) | Diretório de moradores de condomínio com busca por bloco e área administrativa. Node.js + JS puro. |
