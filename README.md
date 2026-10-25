@@ -1,6 +1,6 @@
 ## Olá, eu sou o Mathews 👋
 
-Desenvolvedor de **automações e integrações** em Paulista-PE. No dia a dia conecto sistemas: CRM Bitrix24, WhatsApp, fluxos no n8n e no Kestra, e crio painéis e apps web para eles. Nas horas vagas, faço ferramentas para o meu próprio setup Linux.
+Desenvolvedor de **automações e integrações**.Conecto sistemas: CRM Bitrix24, WhatsApp, fluxos no n8n e no Kestra, e crio painéis e apps web para eles. Nas horas vagas, faço ferramentas para o meu próprio setup Linux.
 
 ### 🛠️ Ferramentas
 
